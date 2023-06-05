@@ -1,5 +1,5 @@
 # Tableau Project: Comparison of Sales By Region
-This project features the creation of an interactive dashboard to compare the sales data between different regions of the US. 
+This project features the creation of an interactive dashboard to compare the sales data between different regions of the US using the Sample Superstore dataset.
 
 Check out the dashboard on Tableau Public using the link below or download the Tableau Workbook file located in this repository.
 
