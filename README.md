@@ -3,7 +3,7 @@ This project features the creation of an interactive dashboard to compare the sa
 
 Check out the dashboard on Tableau Public using the link below or download the Tableau Workbook file located in this repository.
 
-https://public.tableau.com/app/profile/karolina.rymarz/viz/SalesbyRegionDashboardProject/DashboardSalesComparison?publish=yes
+[Sales Comparison Dashboard](https://public.tableau.com/app/profile/karolina.rymarz/viz/SalesbyRegionDashboardProject/DashboardSalesComparison?publish=yes)
 
 DESCRIPTION:
 
